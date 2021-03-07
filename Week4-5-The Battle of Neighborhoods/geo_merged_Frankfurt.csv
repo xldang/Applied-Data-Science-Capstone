@@ -1,0 +1,47 @@
+District,Latitude,Longitude,Borough
+Altstadt,50.1104436,8.6823506,Innenstadt I
+ Bahnhofsviertel,50.1084107,8.6681512,Innenstadt I
+ Gallus,50.1038405,8.6431009,Innenstadt I
+ Gutleutviertel,50.1017076,8.6605407,Innenstadt I
+ Innenstadt,50.1145581,8.6835914,Innenstadt I
+Bockenheim,50.1233115,8.6460563,Innenstadt II
+ Westend-Nord,50.1263563,8.6679209,Innenstadt II
+ Westend-Süd,50.1152448,8.6622696,Innenstadt II
+Nordend-Ost,50.1249197,8.6923167,Innenstadt III
+ Nordend-West,50.1249136,8.67795,Innenstadt III
+Ostend,50.1123728,8.6999671,Bornheim/Ostend
+ Bornheim,50.1297313,8.7106117,Bornheim/Ostend
+Flughafen,50.04303025,8.567283919206004,Süd
+ Niederrad,50.0882911,8.6427072,Süd
+ Oberrad,50.100008,8.7231359,Süd
+ Sachsenhausen-Süd,50.0707248,8.685449728161462,Süd
+ Sachsenhausen-Nord,50.0978128,8.67336208063444,Süd
+Griesheim,50.0914289,8.6078631,West
+ Höchst,50.0995118,8.5452956,West
+ Nied,50.1007301,8.5722132,West
+ Schwanheim,50.0853006,8.5836267,West
+ Sindlingen,50.0798368,8.5179804,West
+ Sossenheim,50.1201215,8.5666158,West
+ Unterliederbach,50.1104064,8.5322471,West
+ Zeilsheim,50.0955649,8.4947834,West
+Rödelheim,50.1249843,8.6125536,Mitte-West
+ Praunheim,50.1507958,8.6215134,Mitte-West
+ Hausen,50.1320084,8.6243618,Mitte-West
+Niederursel,50.1690572,8.6188761,Nord-West
+ Heddernheim,50.159627,8.6466155,Nord-West
+Eschersheim,50.1582027,8.6562116,Mitte-Nord
+ Ginnheim,50.143081,8.6498558,Mitte-Nord
+ Dornbusch,50.1390457,8.6752715,Mitte-Nord
+Eckenheim,50.1517101,8.6797459,Nord-Ost
+ Preungesheim,50.1565402,8.6878166,Nord-Ost
+ Berkersheim,50.1732889,8.6973119,Nord-Ost
+ Frankfurter Berg,50.1680209,8.6756884,Nord-Ost
+ Bonames,50.1813474,8.6633305,Nord-Ost
+Seckbach,50.1434285,8.7258861,Ost
+ Riederwald,50.1288376,8.7331285,Ost
+ Fechenheim,50.123015,8.7693856,Ost
+Kalbach-Riedberg,50.186279299999995,8.639054519087743,Kalbach-Riedberg
+Nieder-Erlenbach,50.2026088,8.7119602,Nieder-Erlenbach
+Harheim,50.182287,8.6929716,Harheim
+Nieder-Eschbach,50.2017328,8.666710664514689,Nieder-Eschbach
+Bergen-Enkheim,50.15801465,8.762038791958947,Bergen-Enkheim

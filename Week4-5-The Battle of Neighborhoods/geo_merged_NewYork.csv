@@ -1,0 +1,157 @@
+Borough,District,Latitude,Longitude
+Bronx CB 1,Melrose,40.8256703,-73.9152416
+Bronx CB 1, Port Morris,40.8015147,-73.9095811
+Bronx CB 2, Longwood,42.9531152,-78.3694646
+Bronx CB 3, Concourse Village,40.823868149999996,-73.92118091218828
+Bronx CB 3, Morrisania,40.8292672,-73.9065253
+Bronx CB 4, Highbridge,40.84591775,-73.92984478686536
+Bronx CB 5, Morris Heights,40.8498223,-73.919859
+Bronx CB 5, University Heights,40.8618406,-73.9135154
+Bronx CB 6, Belmont,42.2231241,-78.0344506
+Bronx CB 6, West Farms,40.8398226,-73.8776356
+Bronx CB 7, Norwood,44.75161,-74.994392
+Bronx CB 8,Fieldston,40.8944444,-73.9033333
+Bronx CB 8, Kingsbridge Heights,40.8725702,-73.9026619
+Bronx CB 8, Riverdale,40.90056,-73.90639
+Bronx CB 8, Van Cortlandt Village,41.2486935,-73.90858593483966
+Bronx CB 9, Bruckner,40.8266667,-73.8286111
+Bronx CB 9, Clason Point,40.8147164,-73.8599648
+Bronx CB 9, Parkchester,40.8332047,-73.8609723
+Bronx CB 9, Unionport,40.8273229,-73.8501349
+Bronx CB 10, Co-op City,40.8738889,-73.8294444
+Bronx CB 10, Pelham Bay,40.8662112,-73.7895774
+Bronx CB 10, Throgs Neck,40.8226008,-73.8195784
+Bronx CB 11,Allerton,40.8654299,-73.8673652
+Bronx CB 11, Indian Village,42.9439553,-76.1624253
+Bronx CB 11, Morris Park,40.8545235,-73.8602968
+Bronx CB 11, Pelham Parkway,40.8588576,-73.8554627
+Bronx CB 12,Baychester,40.8612222,-73.8412865
+Bronx CB 12, Eastchester,40.9610563,-73.8064739
+Bronx CB 12, Olinville,40.882014,-73.866201
+Bronx CB 12, Williamsbridge,40.87762425,-73.87752006260061
+Brooklyn CB 1,Greenpoint,40.7237134,-73.9509714
+Brooklyn CB 1, Williamsburg Houses,40.70962095,-73.94186815686678
+Brooklyn CB 2, Brooklyn Heights,40.696084850000005,-73.9950278391265
+Brooklyn CB 2, Clinton Hill,40.6897222,-73.9652778
+Brooklyn CB 2, Fort Greene,40.6907711,-73.9766245
+Brooklyn CB 2, Fulton Mall,40.6918024,-73.9882134
+Brooklyn CB 3,Bedford-Stuyvesant,40.6834364,-73.9412488
+Brooklyn CB 3, Stuyvesant Heights,42.387863,-73.775751
+Brooklyn CB 5,City Line,40.6762251,-73.8869623
+Brooklyn CB 5, East New York,40.6667702,-73.8823583
+Brooklyn CB 5, New Lots,10.6494498,-61.5108322
+Brooklyn CB 6,Carroll Gardens,40.6784201,-73.9948021
+Brooklyn CB 6, Gowanus,40.6791695,-73.9885041
+Brooklyn CB 6, Red Hook,40.6751032,-74.0095841
+Brooklyn CB 7, Sunset Park,40.644337,-74.007532
+Brooklyn CB 8,Crown Heights,40.667471,-73.9435662
+Brooklyn CB 8, Weeksville,40.67649605,-73.9345740933517
+Brooklyn CB 10,Bay Ridge,40.6339929,-74.0145841
+Brooklyn CB 10, Fort Hamilton,40.6187154,-74.0331957
+Brooklyn CB 11, Bensonhurst,40.6049772,-73.9934061
+Brooklyn CB 11, Mapleton,42.8436796,-76.5999435
+Brooklyn CB 12, Kensington,40.7934345,-73.7220756
+Brooklyn CB 12, Ocean Parkway,40.576312,-73.968501
+Brooklyn CB 13, Brighton Beach,40.57964365,-73.96111081059607
+Brooklyn CB 13, Gravesend,40.5961338,-73.9739426
+Brooklyn CB 14,Flatbush,40.6520481,-73.959027
+Brooklyn CB 14, Midwood,40.6188823,-73.9654889
+Brooklyn CB 15, Homecrest,40.58611335,-73.95731014951107
+Brooklyn CB 15, Kings Highway,40.6086699,-73.957734
+Brooklyn CB 15, Manhattan Beach,40.5766309,-73.9409798480918
+Brooklyn CB 15, Sheepshead Bay,40.5912161,-73.9445822
+Brooklyn CB 16, Ocean Hill,40.6757317,-73.9124338
+Brooklyn CB 17, East Flatbush,40.6537148,-73.9304151
+Brooklyn CB 17, Farragut,40.69918995,-73.98174195424423
+Brooklyn CB 17, Rugby,52.3751028,-1.2705048
+Brooklyn CB 18, Canarsie,40.643715,-73.9006921
+Brooklyn CB 18, Georgetown,42.7684005,-75.7365767
+Brooklyn CB 18, Mill Basin,40.6032495,-73.9068747
+Manhattan CB 1,Battery Park City,40.7110166,-74.0169369
+Manhattan CB 1, Tribeca,40.7153802,-74.0093063
+Manhattan CB 2, Greenwich Village,40.7319802,-73.9965658
+Manhattan CB 2, Lower East Side,40.7159357,-73.9868057
+Manhattan CB 2, SoHo,40.72288,-73.9987505
+Manhattan CB 3,Alphabet City,40.7251022,-73.9795833
+Manhattan CB 3, East Village,40.7292688,-73.9873613
+Manhattan CB 3, Two Bridges,40.7112884,-73.9922333
+Manhattan CB 4, Clinton,43.0484029,-75.3785034
+Manhattan CB 4, Hudson Yards,40.7559064,-74.0005322
+Manhattan CB 6,Gramercy Park,40.73792525,-73.98593239621584
+Manhattan CB 6, Rose Hill,40.743338,-73.9841594
+Manhattan CB 6, Peter Cooper Village,40.73391845,-73.97603006210491
+Manhattan CB 6, Sutton Place,40.664373,-73.469407
+Manhattan CB 6, Turtle Bay,40.7534666,-73.9688659
+Manhattan CB 7,Lincoln Square,40.7723194,-73.9844012
+Manhattan CB 7, Upper West Side,40.7870455,-73.9754163
+Manhattan CB 8, Roosevelt Island,40.7614177,-73.95022816711152
+Manhattan CB 8, Yorkville,40.7780067,-73.9482022
+Manhattan CB 9, Manhattanville,40.8157775,-73.951554
+Manhattan CB 10,Harlem,40.8078786,-73.9454154
+Manhattan CB 11,East Harlem,40.7947222,-73.9425
+Manhattan CB 11, Spanish Harlem,40.7866636,-73.9501801
+Manhattan CB 12,Inwood,40.8692579,-73.9204949
+Queens CB 1,Astoria,40.7720145,-73.9302673
+Queens CB 1, Queensbridge,40.754494550000004,-73.94561281905408
+Queens CB 1, Long Island City,40.7415095,-73.9569751
+Queens CB 1, Rikers Island,40.79193175,-73.88349371727949
+Queens CB 2,Blissville,40.7347214,-73.9377798
+Queens CB 2, Sunnyside Gardens,40.7477778,-73.9183333
+Queens CB 3,East Elmhurst,40.7612123,-73.8651358
+Queens CB 4, Elmhurst,40.7365804,-73.8783932
+Queens CB 5, Glendale,40.7014917,-73.8868028
+Queens CB 5, Middle Village,40.718215650000005,-73.87867154730415
+Queens CB 5, Ridgewood,40.7080556,-73.9141667
+Queens CB 6, Rego Park,40.72286495,-73.86210197975404
+Queens CB 7, Beechhurst,40.7914903,-73.8045781
+Queens CB 7, Flushing,40.7654301,-73.8174291
+Queens CB 7, Malba,40.7906569,-73.8268009
+Queens CB 7, Whitestone,40.7945457,-73.8184674
+Queens CB 8,Briarwood,40.7092563,-73.8201394
+Queens CB 8, Holliswood,42.7429008,-73.7728673
+Queens CB 8, Pomonok Houses,40.7332433,-73.81277820488998
+Queens CB 9,Kew Gardens,40.7139415,-73.830742
+Queens CB 9, Richmond Hill,43.880078,-79.439392
+Queens CB 10,Howard Beach,40.6578815,-73.8362459
+Queens CB 10, Tudor Village,51.6814067,-0.3822256
+Queens CB 11, Bayside,40.7684351,-73.7770774
+Queens CB 11, East Flushing,40.757536599999995,-73.78430452865169
+Queens CB 11, Little Neck,40.7745338,-73.7412564
+Queens CB 12, Hollis,40.7134361,-73.7670772
+Queens CB 12, St. Albans,40.6984364,-73.7606881
+Queens CB 12, Springfield Gardens,40.678159,-73.746521
+Queens CB 13, Brookville,40.8131553,-73.5673482
+Queens CB 13, Floral Park,40.7246999,-73.7048024
+Queens CB 13, Laurelton,40.6667703,-73.7515212
+Queens CB 13, New Hyde Park,40.7352157,-73.6883239
+Queens CB 13, Rosedale,40.6620479,-73.7354097
+Queens CB 14, Bayswater,40.6102778,-73.7672222
+Queens CB 14, Breezy Point,40.5562952,-73.9267466193535
+Queens CB 14, Far Rockaway,40.6053825,-73.7551326
+Queens CB 14, Rockaway Park,40.5805104,-73.8361535
+Staten Island CB 1,Arlington,41.694069,-73.88636347613317
+Staten Island CB 1, Clifton,40.6201041,-74.0770857
+Staten Island CB 1, Elm Park,40.6314925,-74.1487544
+Staten Island CB 1, Graniteville,40.6248259,-74.1484765
+Staten Island CB 1, Livingston,42.7360902,-77.7781416
+Staten Island CB 1, Port Ivory,40.6409366,-74.1801442
+Staten Island CB 1, Randall Manor,40.6441993,-74.10457640394483
+Staten Island CB 1, St. George,40.6439626,-74.0734416
+Staten Island CB 1, Silver Lake,42.601463,-75.3323938
+Staten Island CB 1, West Brighton,40.5780247,-73.97492614655985
+Staten Island CB 2,Arrochar,40.5984379,-74.0726412
+Staten Island CB 2, Bulls Head,40.6070484,-74.1620879
+Staten Island CB 2, Dongan Hills,40.588438,-74.0962528
+Staten Island CB 2, Emerson Hill,40.6085851,-74.0945642
+Staten Island CB 2, Grasmere,40.6042711,-74.087086
+Staten Island CB 2, New Dorp,40.5739938,-74.1159755
+Staten Island CB 2, Oakwood,43.6827255,-79.4380548
+Staten Island CB 2, Old Town,40.5967018,-74.08732595968985
+Staten Island CB 2, Todt Hill,40.6010083,-74.1150363
+Staten Island CB 3,Annadale,40.5445496,-74.1765324
+Staten Island CB 3, Bay Terrace,40.5552778,-74.1341667
+Staten Island CB 3, Eltingville,40.5453831,-74.1656988
+Staten Island CB 3, Greenridge,40.5612236,-74.1698852
+Staten Island CB 3, Pleasant Plains,40.5239944,-74.2156999
+Staten Island CB 3, Richmond Valley,40.5201055,-74.2293113
+Staten Island CB 3, Tottenville,40.5112167,-74.2493117
