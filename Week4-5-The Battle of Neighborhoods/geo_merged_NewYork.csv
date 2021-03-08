@@ -29,7 +29,6 @@ Bronx CB 12,Baychester,40.8612222,-73.8412865
 Bronx CB 12, Eastchester,40.9610563,-73.8064739
 Bronx CB 12, Olinville,40.882014,-73.866201
 Bronx CB 12, Williamsbridge,40.87762425,-73.87752006260061
-Brooklyn CB 1,Greenpoint,40.7237134,-73.9509714
 Brooklyn CB 1, Williamsburg Houses,40.70962095,-73.94186815686678
 Brooklyn CB 2, Brooklyn Heights,40.696084850000005,-73.9950278391265
 Brooklyn CB 2, Clinton Hill,40.6897222,-73.9652778
@@ -38,7 +37,6 @@ Brooklyn CB 2, Fulton Mall,40.6918024,-73.9882134
 Brooklyn CB 3,Bedford-Stuyvesant,40.6834364,-73.9412488
 Brooklyn CB 3, Stuyvesant Heights,42.387863,-73.775751
 Brooklyn CB 5,City Line,40.6762251,-73.8869623
-Brooklyn CB 5, East New York,40.6667702,-73.8823583
 Brooklyn CB 5, New Lots,10.6494498,-61.5108322
 Brooklyn CB 6,Carroll Gardens,40.6784201,-73.9948021
 Brooklyn CB 6, Gowanus,40.6791695,-73.9885041
@@ -63,7 +61,6 @@ Brooklyn CB 15, Sheepshead Bay,40.5912161,-73.9445822
 Brooklyn CB 16, Ocean Hill,40.6757317,-73.9124338
 Brooklyn CB 17, East Flatbush,40.6537148,-73.9304151
 Brooklyn CB 17, Farragut,40.69918995,-73.98174195424423
-Brooklyn CB 17, Rugby,52.3751028,-1.2705048
 Brooklyn CB 18, Canarsie,40.643715,-73.9006921
 Brooklyn CB 18, Georgetown,42.7684005,-75.7365767
 Brooklyn CB 18, Mill Basin,40.6032495,-73.9068747
@@ -71,7 +68,6 @@ Manhattan CB 1,Battery Park City,40.7110166,-74.0169369
 Manhattan CB 1, Tribeca,40.7153802,-74.0093063
 Manhattan CB 2, Greenwich Village,40.7319802,-73.9965658
 Manhattan CB 2, Lower East Side,40.7159357,-73.9868057
-Manhattan CB 2, SoHo,40.72288,-73.9987505
 Manhattan CB 3,Alphabet City,40.7251022,-73.9795833
 Manhattan CB 3, East Village,40.7292688,-73.9873613
 Manhattan CB 3, Two Bridges,40.7112884,-73.9922333
@@ -96,7 +92,6 @@ Queens CB 1, Queensbridge,40.754494550000004,-73.94561281905408
 Queens CB 1, Long Island City,40.7415095,-73.9569751
 Queens CB 1, Rikers Island,40.79193175,-73.88349371727949
 Queens CB 2,Blissville,40.7347214,-73.9377798
-Queens CB 2, Sunnyside Gardens,40.7477778,-73.9183333
 Queens CB 3,East Elmhurst,40.7612123,-73.8651358
 Queens CB 4, Elmhurst,40.7365804,-73.8783932
 Queens CB 5, Glendale,40.7014917,-73.8868028
